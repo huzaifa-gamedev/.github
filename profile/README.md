@@ -63,6 +63,9 @@ Welcome to my game development showcase! This organization represents my journey
 
 <h3 align="left">Graphics & Design:</h3>
 <p align="left">
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  </a>
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"/>
   </a>
