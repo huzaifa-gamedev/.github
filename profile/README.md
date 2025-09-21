@@ -188,10 +188,10 @@ I'm passionate about game development and always eager to:
 
 ### 🌟 Explore My Complete Development Journey
 
-[![🎮 Game Dev](https://img.shields.io/badge/🎮_Game_Dev-huzaifa--gamedev-purple?style=for-the-badge)](https://github.com/huzaifa-gamedev)
+[![🎮 Game Dev](https://img.shields.io/badge/🎮_Game_Dev-huzaifa--gamedev-orange?style=for-the-badge)](https://github.com/huzaifa-gamedev)
 [![🎨 Frontend](https://img.shields.io/badge/🎨_Frontend-huzaifa--frontend-blue?style=for-the-badge)](https://github.com/huzaifa-frontend)
 [![⚡ Full Stack](https://img.shields.io/badge/⚡_Full_Stack-huzaifa--fullstack-green?style=for-the-badge)](https://github.com/huzaifa-fullstack)
-[![📚 Resources](https://img.shields.io/badge/📚_Vault-huzaifa--vault-orange?style=for-the-badge)](https://github.com/huzaifa-vault)
+[![📚 Resources](https://img.shields.io/badge/📚_Vault-huzaifa--vault-purple?style=for-the-badge)](https://github.com/huzaifa-vault)
 
 ---
 
